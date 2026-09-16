@@ -1,0 +1,12 @@
+{
+  "name": "apps.kibk.net Gallery",
+  "short_name": "Gallery",
+  "description": "A private gallery of tools, trips, games, and experiments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#101b18",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

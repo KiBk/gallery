@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "car-trip",
+    "title": "West by Weather",
+    "description": "A weather-led road trip across western Norway, with routes, stops, and daily decisions.",
+    "category": "Trips",
+    "url": "https://car-trip.apps.kibk.net",
+    "symbol": "NW",
+    "accent": "#dc6b45"
+  },
+  {
+    "slug": "gjovik",
+    "title": "Gjøvik Bikepacking",
+    "description": "A checked Gjøvik-to-Oslo bikepacking weekend with route, cabins, and stage weather.",
+    "category": "Trips",
+    "url": "https://gjovik.apps.kibk.net",
+    "symbol": "GJ",
+    "accent": "#4f7e68"
+  },
+  {
+    "slug": "levanger-loop",
+    "title": "Levanger Loop",
+    "description": "The complete 226 km loop: ferries, timing, route detail, and the long way home.",
+    "category": "Trips",
+    "url": "https://levanger-loop.apps.kibk.net",
+    "symbol": "LV",
+    "accent": "#b96c44"
+  },
+  {
+    "slug": "oppdal-hike",
+    "title": "Ekkertinden → Renndølsetra",
+    "description": "The committed hike and camping plan, including access, weather, ferry, and walking details.",
+    "category": "Trips",
+    "url": "https://oppdal-hike.apps.kibk.net",
+    "symbol": "EK",
+    "accent": "#6c7550"
+  },
+  {
+    "slug": "oppdal-round",
+    "title": "Oppdal Round",
+    "description": "Compare the train home with the full 495 km bicycle loop and its weather checkpoints.",
+    "category": "Trips",
+    "url": "https://oppdal-round.apps.kibk.net",
+    "symbol": "OP",
+    "accent": "#b15542"
+  },
+  {
+    "slug": "poland-trip",
+    "title": "North to Baltic",
+    "description": "An active week around Gdańsk, Sopot, Gdynia, Hel, Sobieszewo, and Malbork.",
+    "category": "Trips",
+    "url": "https://poland-trip.apps.kibk.net",
+    "symbol": "PL",
+    "accent": "#477f93"
+  },
+  {
+    "slug": "prague",
+    "title": "Prague, at Your Pace",
+    "description": "Museums, good food nearby, a pocket map, and enough room to change your mind.",
+    "category": "Trips",
+    "url": "https://prague.apps.kibk.net",
+    "symbol": "PR",
+    "accent": "#a65245"
+  },
+  {
+    "slug": "sicily",
+    "title": "Sicily · Divide & Together",
+    "description": "Cycling the Sicily Divide, then exploring Catania together—with the whole plan in one place.",
+    "category": "Trips",
+    "url": "https://sicily.apps.kibk.net",
+    "symbol": "SI",
+    "accent": "#d67a35"
+  },
+  {
+    "slug": "car",
+    "title": "Car Suspension Playground",
+    "description": "An interactive 3D model for pulling at each corner and seeing the suspension respond.",
+    "category": "Playgrounds",
+    "url": "https://car.apps.kibk.net",
+    "symbol": "3D",
+    "accent": "#4f717b"
+  },
+  {
+    "slug": "drifting",
+    "title": "Convoy Rally",
+    "description": "A multiplayer rally and drifting prototype with touch controls, invites, and plenty of boost.",
+    "category": "Playgrounds",
+    "url": "https://drifting.apps.kibk.net",
+    "symbol": "CR",
+    "accent": "#c04f3f"
+  },
+  {
+    "slug": "police-chase",
+    "title": "Police Chase",
+    "description": "A procedural countryside car chase: a different road and one persistent patrol.",
+    "category": "Playgrounds",
+    "url": "https://police-chase.apps.kibk.net",
+    "symbol": "PC",
+    "accent": "#365f65"
+  },
+  {
+    "slug": "suspension-lab",
+    "title": "Suspension Lab",
+    "description": "Pick up a car, release it, and compare complete vehicle setups in an interactive 3D lab.",
+    "category": "Playgrounds",
+    "url": "https://suspension-lab.apps.kibk.net",
+    "symbol": "SL",
+    "accent": "#4d6b56"
+  },
+  {
+    "slug": "wheels",
+    "title": "Wheel Bench",
+    "description": "Spoke lengths, hub dimensions, and bearing references for 29-inch J-bend wheel builds.",
+    "category": "Workshop",
+    "url": "https://wheels.apps.kibk.net",
+    "symbol": "WB",
+    "accent": "#526c79"
+  },
+  {
+    "slug": "vev-vind",
+    "title": "Vev & Vind",
+    "description": "A calm storefront concept for scarves chosen for colour, texture, and character.",
+    "category": "Studio",
+    "url": "https://vev-vind.apps.kibk.net",
+    "symbol": "V&V",
+    "accent": "#9c5a63"
+  }
+]
