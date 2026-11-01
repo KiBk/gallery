@@ -4,7 +4,7 @@
     "title": "West by Weather",
     "description": "A weather-led road trip across western Norway, with routes, stops, and daily decisions.",
     "category": "Trips",
-    "url": "https://car-trip.apps.kibk.net",
+    "url": "https://kibk.net/car-trip/",
     "symbol": "NW",
     "accent": "#dc6b45"
   },
@@ -13,7 +13,7 @@
     "title": "Gjøvik Bikepacking",
     "description": "A checked Gjøvik-to-Oslo bikepacking weekend with route, cabins, and stage weather.",
     "category": "Trips",
-    "url": "https://gjovik.apps.kibk.net",
+    "url": "https://kibk.net/gjovik/",
     "symbol": "GJ",
     "accent": "#4f7e68"
   },
@@ -22,7 +22,7 @@
     "title": "Levanger Loop",
     "description": "The complete 226 km loop: ferries, timing, route detail, and the long way home.",
     "category": "Trips",
-    "url": "https://levanger-loop.apps.kibk.net",
+    "url": "https://kibk.net/levanger-loop/",
     "symbol": "LV",
     "accent": "#b96c44"
   },
@@ -31,7 +31,7 @@
     "title": "Ekkertinden → Renndølsetra",
     "description": "The committed hike and camping plan, including access, weather, ferry, and walking details.",
     "category": "Trips",
-    "url": "https://oppdal-hike.apps.kibk.net",
+    "url": "https://kibk.net/oppdal-hike/",
     "symbol": "EK",
     "accent": "#6c7550"
   },
@@ -40,7 +40,7 @@
     "title": "Oppdal Round",
     "description": "Compare the train home with the full 495 km bicycle loop and its weather checkpoints.",
     "category": "Trips",
-    "url": "https://oppdal-round.apps.kibk.net",
+    "url": "https://kibk.net/oppdal-round/",
     "symbol": "OP",
     "accent": "#b15542"
   },
@@ -49,7 +49,7 @@
     "title": "North to Baltic",
     "description": "An active week around Gdańsk, Sopot, Gdynia, Hel, Sobieszewo, and Malbork.",
     "category": "Trips",
-    "url": "https://poland-trip.apps.kibk.net",
+    "url": "https://kibk.net/poland-trip/",
     "symbol": "PL",
     "accent": "#477f93"
   },
@@ -58,7 +58,7 @@
     "title": "Prague, at Your Pace",
     "description": "Museums, good food nearby, a pocket map, and enough room to change your mind.",
     "category": "Trips",
-    "url": "https://prague.apps.kibk.net",
+    "url": "https://kibk.net/prague/",
     "symbol": "PR",
     "accent": "#a65245"
   },
@@ -67,7 +67,7 @@
     "title": "Sicily · Divide & Together",
     "description": "Cycling the Sicily Divide, then exploring Catania together—with the whole plan in one place.",
     "category": "Trips",
-    "url": "https://sicily.apps.kibk.net",
+    "url": "https://kibk.net/sicily/planner/",
     "symbol": "SI",
     "accent": "#d67a35"
   },
@@ -76,7 +76,7 @@
     "title": "Car Suspension Playground",
     "description": "An interactive 3D model for pulling at each corner and seeing the suspension respond.",
     "category": "Playgrounds",
-    "url": "https://car.apps.kibk.net",
+    "url": "https://kibk.net/car/",
     "symbol": "3D",
     "accent": "#4f717b"
   },
@@ -85,7 +85,7 @@
     "title": "Convoy Rally",
     "description": "A multiplayer rally and drifting prototype with touch controls, invites, and plenty of boost.",
     "category": "Playgrounds",
-    "url": "https://drifting.apps.kibk.net",
+    "url": "https://kibk.net/game-drifting/",
     "symbol": "CR",
     "accent": "#c04f3f"
   },
@@ -94,7 +94,7 @@
     "title": "Police Chase",
     "description": "A procedural countryside car chase: a different road and one persistent patrol.",
     "category": "Playgrounds",
-    "url": "https://police-chase.apps.kibk.net",
+    "url": "https://kibk.net/police-chase/",
     "symbol": "PC",
     "accent": "#365f65"
   },
@@ -103,7 +103,7 @@
     "title": "Suspension Lab",
     "description": "Pick up a car, release it, and compare complete vehicle setups in an interactive 3D lab.",
     "category": "Playgrounds",
-    "url": "https://suspension-lab.apps.kibk.net",
+    "url": "https://kibk.net/suspension-lab/",
     "symbol": "SL",
     "accent": "#4d6b56"
   },
@@ -112,7 +112,7 @@
     "title": "Wheel Bench",
     "description": "Spoke lengths, hub dimensions, and bearing references for 29-inch J-bend wheel builds.",
     "category": "Workshop",
-    "url": "https://wheels.apps.kibk.net",
+    "url": "https://kibk.net/wheels/",
     "symbol": "WB",
     "accent": "#526c79"
   },
@@ -121,7 +121,7 @@
     "title": "Vev & Vind",
     "description": "A calm storefront concept for scarves chosen for colour, texture, and character.",
     "category": "Studio",
-    "url": "https://vev-vind.apps.kibk.net",
+    "url": "https://kibk.net/vev-vind/",
     "symbol": "V&V",
     "accent": "#9c5a63"
   }

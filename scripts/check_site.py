@@ -39,8 +39,9 @@ for app in apps:
     assert app["category"] in {"Trips", "Playgrounds", "Workshop", "Studio"}
     assert re.fullmatch(r"#[0-9a-fA-F]{6}", app["accent"])
     parsed = urlparse(app["url"])
-    assert parsed.scheme == "https" and parsed.path in {"", "/"}
-    assert parsed.hostname == f"{app['slug']}.apps.kibk.net"
+    expected_path = {"drifting": "/game-drifting/", "sicily": "/sicily/planner/"}.get(app["slug"], f"/{app['slug']}/")
+    assert parsed.scheme == "https" and parsed.hostname == "kibk.net"
+    assert parsed.path == expected_path
 
 html = (public / "index.html").read_text()
 for asset in ("/styles.css", "/app.js", "/icon.svg", "/manifest.webmanifest"):

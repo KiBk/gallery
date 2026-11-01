@@ -41,7 +41,7 @@ function card(app, index) {
       <strong>${app.title}</strong>
       <span>${app.description}</span>
     </span>
-    <span class="card-host">${app.slug}.apps.kibk.net</span>
+    <span class="card-host">${new URL(app.url).host}${new URL(app.url).pathname}</span>
   `;
   return link;
 }
