@@ -45,7 +45,8 @@ for app in apps:
 html = (public / "index.html").read_text()
 for asset in ("/styles.css", "/app.js", "/icon.svg", "/manifest.webmanifest"):
     assert asset in html
-assert "https://heimdall.kibk.net" in html
+assert 'href="https://kibk.net"' in html
+assert 'heimdall.kibk.net' not in html
 assert "noindex, nofollow" in html
 
 js = (public / "app.js").read_text()
