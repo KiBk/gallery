@@ -6,9 +6,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 EXPECTED = {
-    "car-trip", "car", "drifting", "gjovik", "levanger-loop", "oppdal-hike",
-    "oppdal-round", "poland-trip", "police-chase", "prague", "sicily",
-    "suspension-lab", "vev-vind", "wheels",
+    "drifting", "police-chase", "suspension-lab", "wheels",
 }
 REQUIRED = {
     "index.html", "styles.css", "app.js", "apps.json", "icon.svg",
@@ -28,7 +26,7 @@ assert (root / "nginx.conf").is_file()
 
 apps = json.loads((public / "apps.json").read_text())
 assert isinstance(apps, list)
-assert len(apps) == 14
+assert len(apps) == 4
 assert {app["slug"] for app in apps} == EXPECTED
 assert len({app["url"] for app in apps}) == len(apps)
 
@@ -36,7 +34,7 @@ for app in apps:
     assert set(app) == {"slug", "title", "description", "category", "url", "symbol", "accent"}
     assert app["title"].strip()
     assert len(app["description"]) >= 35
-    assert app["category"] in {"Trips", "Playgrounds", "Workshop", "Studio"}
+    assert app["category"] in {"Playgrounds", "Workshop"}
     assert re.fullmatch(r"#[0-9a-fA-F]{6}", app["accent"])
     parsed = urlparse(app["url"])
     expected_path = {"drifting": "/game-drifting/", "sicily": "/sicily/planner/"}.get(app["slug"], f"/{app['slug']}/")
@@ -59,4 +57,4 @@ nginx = (root / "nginx.conf").read_text()
 assert "location = /healthz" in nginx
 assert "Content-Security-Policy" in nginx
 
-print("Gallery checks passed: 14 exact applications and required assets validated.")
+print("Gallery checks passed: four retained applications and required assets validated.")

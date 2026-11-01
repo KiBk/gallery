@@ -1,86 +1,5 @@
 [
   {
-    "slug": "car-trip",
-    "title": "West by Weather",
-    "description": "A weather-led road trip across western Norway, with routes, stops, and daily decisions.",
-    "category": "Trips",
-    "url": "https://kibk.net/car-trip/",
-    "symbol": "NW",
-    "accent": "#dc6b45"
-  },
-  {
-    "slug": "gjovik",
-    "title": "Gjøvik Bikepacking",
-    "description": "A checked Gjøvik-to-Oslo bikepacking weekend with route, cabins, and stage weather.",
-    "category": "Trips",
-    "url": "https://kibk.net/gjovik/",
-    "symbol": "GJ",
-    "accent": "#4f7e68"
-  },
-  {
-    "slug": "levanger-loop",
-    "title": "Levanger Loop",
-    "description": "The complete 226 km loop: ferries, timing, route detail, and the long way home.",
-    "category": "Trips",
-    "url": "https://kibk.net/levanger-loop/",
-    "symbol": "LV",
-    "accent": "#b96c44"
-  },
-  {
-    "slug": "oppdal-hike",
-    "title": "Ekkertinden → Renndølsetra",
-    "description": "The committed hike and camping plan, including access, weather, ferry, and walking details.",
-    "category": "Trips",
-    "url": "https://kibk.net/oppdal-hike/",
-    "symbol": "EK",
-    "accent": "#6c7550"
-  },
-  {
-    "slug": "oppdal-round",
-    "title": "Oppdal Round",
-    "description": "Compare the train home with the full 495 km bicycle loop and its weather checkpoints.",
-    "category": "Trips",
-    "url": "https://kibk.net/oppdal-round/",
-    "symbol": "OP",
-    "accent": "#b15542"
-  },
-  {
-    "slug": "poland-trip",
-    "title": "North to Baltic",
-    "description": "An active week around Gdańsk, Sopot, Gdynia, Hel, Sobieszewo, and Malbork.",
-    "category": "Trips",
-    "url": "https://kibk.net/poland-trip/",
-    "symbol": "PL",
-    "accent": "#477f93"
-  },
-  {
-    "slug": "prague",
-    "title": "Prague, at Your Pace",
-    "description": "Museums, good food nearby, a pocket map, and enough room to change your mind.",
-    "category": "Trips",
-    "url": "https://kibk.net/prague/",
-    "symbol": "PR",
-    "accent": "#a65245"
-  },
-  {
-    "slug": "sicily",
-    "title": "Sicily · Divide & Together",
-    "description": "Cycling the Sicily Divide, then exploring Catania together—with the whole plan in one place.",
-    "category": "Trips",
-    "url": "https://kibk.net/sicily/planner/",
-    "symbol": "SI",
-    "accent": "#d67a35"
-  },
-  {
-    "slug": "car",
-    "title": "Car Suspension Playground",
-    "description": "An interactive 3D model for pulling at each corner and seeing the suspension respond.",
-    "category": "Playgrounds",
-    "url": "https://kibk.net/car/",
-    "symbol": "3D",
-    "accent": "#4f717b"
-  },
-  {
     "slug": "drifting",
     "title": "Convoy Rally",
     "description": "A multiplayer rally and drifting prototype with touch controls, invites, and plenty of boost.",
@@ -115,14 +34,5 @@
     "url": "https://kibk.net/wheels/",
     "symbol": "WB",
     "accent": "#526c79"
-  },
-  {
-    "slug": "vev-vind",
-    "title": "Vev & Vind",
-    "description": "A calm storefront concept for scarves chosen for colour, texture, and character.",
-    "category": "Studio",
-    "url": "https://kibk.net/vev-vind/",
-    "symbol": "V&V",
-    "accent": "#9c5a63"
   }
 ]
